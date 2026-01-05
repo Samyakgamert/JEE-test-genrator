@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { SYLLABUS } from '../data/syllabus';
+import { SYLLABUS } from 'JEE-test-genrator/client/src/Data/syllabus';
 
 interface PracticeConfigProps {
   onStart: (config: any) => void;
